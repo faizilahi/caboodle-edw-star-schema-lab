@@ -1,0 +1,12 @@
+{
+  "conformed_patients": 300,
+  "raw_patient_source_rows": 340,
+  "mrn_collisions": 40,
+  "fact_encounters": 500,
+  "bridge_rows": 1262,
+  "primary_dx_rows": 500,
+  "med_admin_events": 752,
+  "grain_note": "Bridge is many-per-encounter (correct); do not left-join raw onto reports without aggregating",
+  "issues": [],
+  "pass": true
+}

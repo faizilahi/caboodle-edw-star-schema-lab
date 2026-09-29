@@ -1,1 +1,1 @@
-"""Educational Caboodle-inspired star schema analytics."""
+"""Caboodle-style star schema design review."""
